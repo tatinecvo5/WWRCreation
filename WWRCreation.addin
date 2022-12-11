@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\WWRCreation.dll"</Assembly>
+		<AddInId>F2879DEE-6763-4D08-8C69-D763672C8D3E</AddInId>
+		<FullClassName>WWRCreation.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание стен, окон, крыши</Text>
+	</AddIn>
+</RevitAddIns>
